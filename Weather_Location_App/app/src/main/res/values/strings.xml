@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">case_cemsavas_accuweather_api</string>
+    <string name="anahtar_kelime_giriniz">Anahtar kelime giriniz</string>
+    <string name="auto_search">Anahtar kelime için birkaç harf girin ve Enter basın </string>
+    <string name="sorgula">Güncel konum Hava durumu</string>
+</resources>
